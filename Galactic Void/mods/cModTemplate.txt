@@ -1,0 +1,30 @@
+#include "stdafx.h"
+#include <iostream>
+#include <cmath>
+#include <windows.h>
+#include "modbase.hpp"
+
+class TestPlugin1 : public ModBase {
+public:
+	void render(void)
+	{
+		
+	}
+	void update(void)
+	{
+		
+	}
+};
+
+std::string getName(void) {
+	return "Test1:Maths";
+}
+
+std::unique_ptr<Base> getObj(void) {
+	return std::unique_ptr<ModBase>(new TestPlugin1);
+}
+
+void init(void)
+{
+	
+}
