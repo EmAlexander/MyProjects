@@ -1,5 +1,5 @@
 ## Galactic Void
-This project was my first large scale game that I started back in early 2013 all the way though the year.
+This project was my first large scale game that I started back in early 2013 all the way though mid 2014.
 The entire project was meant to be a "infinite" space exploration game with combat and trading. Almost as if you took an X game and made it 2d.
 This project does **not** represent me as a programmer today as I believe I have improved.
 
