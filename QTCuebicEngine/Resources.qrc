@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>icons/grd.png</file>
+        <file>icons/new.png</file>
+        <file>icons/opn.png</file>
+        <file>icons/quest.png</file>
+        <file>icons/rot.png</file>
+        <file>icons/sav.png</file>
+        <file>icons/savAs.png</file>
+        <file>icons/scl.png</file>
+        <file>icons/trans.png</file>
+        <file>icons/Tatice-Operating-Systems-Linux.ico</file>
+        <file>icons/mac_os.png</file>
+        <file>icons/Windows_window_interface_microsoft.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/gears.png</file>
+        <file>icons/plugin.png</file>
+    </qresource>
+</RCC>
